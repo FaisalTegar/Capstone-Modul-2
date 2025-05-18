@@ -22,9 +22,9 @@ Proyek ini merupakan bagian dari Capstone Modul 2 dalam pembelajaran data scienc
 ```
 Capstone-Modul-2/  
 ├── Faisal Tegar Febrian_Capstone 2.ipynb  
-├── File Transjakarta.csv  
+├── README.md
 ├── File Transjakarta_cleaned.csv  
-└── README.md  
+└── File Transjakarta.csv
 ```
 
 ## ▶️ Cara Menjalankan Proyek
