@@ -59,7 +59,8 @@ pip install pandas matplotlib seaborn
 - Sumber dana kartu pengguna  
 - Frekuensi penggunaan layanan  
 - Rute dan jam sibuk paling populer  
-
+- Saya juga telah membuat visualisasi data di tableau dengan link [berikut](https://public.tableau.com/app/profile/faisal.tegar.febrian/vizzes). 
+  
 ## 🧾 Lisensi
 
 Silakan digunakan dan dikembangkan dengan tetap mencantumkan atribusi.
